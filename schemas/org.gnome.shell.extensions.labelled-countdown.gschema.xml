@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.labelled-countdown" path="/org/gnome/shell/extensions/labelled-countdown/">
+    <key name="label" type="s">
+      <default>'Timer'</default>
+      <summary>Label displayed beside the countdown</summary>
+    </key>
+    <key name="duration" type="i">
+      <default>1500</default>
+      <range min="1" max="86400"/>
+      <summary>Last chosen duration in seconds</summary>
+    </key>
+    <key name="sound-enabled" type="b">
+      <default>true</default>
+      <summary>Play an alarm when the countdown expires</summary>
+    </key>
+    <key name="timer-state" type="s">
+      <default>''</default>
+      <summary>Saved countdown state</summary>
+    </key>
+  </schema>
+</schemalist>

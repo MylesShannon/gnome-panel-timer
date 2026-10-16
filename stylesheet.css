@@ -1,0 +1,10 @@
+.countdown-panel-box { spacing: 6px; }
+.countdown-panel-label { max-width: 180px; }
+.countdown-time { font-family: monospace; }
+.countdown-paused { color: #f8e45c; }
+.countdown-flash { background-color: #c01c28; color: white; border-radius: 6px; }
+.countdown-entry { width: 210px; }
+.countdown-field-label { min-width: 75px; }
+.countdown-help { font-size: 0.9em; color: #c0bfbc; }
+.countdown-error { color: #ff7b63; }
+.countdown-heading { font-weight: bold; }

@@ -1,0 +1,8 @@
+{
+  "uuid": "labelled-countdown@myles.local",
+  "name": "Labelled Countdown",
+  "description": "A top-bar countdown with a custom label, flashing alert, and optional audio alarm.",
+  "shell-version": ["46"],
+  "settings-schema": "org.gnome.shell.extensions.labelled-countdown",
+  "version": 1
+}
