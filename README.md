@@ -73,3 +73,7 @@ gnome-extensions pack --force --extra-source=timer.js --extra-source=alarm.wav -
 `timer.js` implements parsing, formatting, and the countdown state machine. `extension.js` owns the GNOME menu, settings, flashing, and cancellable sound playback. The bundled WAV is an original synthesized chime.
 
 Validated on GNOME 46 with ten timer tests plus an isolated GNOME session covering menu actions, validation, expiry, flashing, audio toggle/cancellation, dismissal, and disable/re-enable restoration.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
