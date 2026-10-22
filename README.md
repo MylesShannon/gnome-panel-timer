@@ -76,4 +76,4 @@ Validated on GNOME 46 with ten timer tests plus an isolated GNOME session coveri
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT, see [LICENSE](LICENSE) and [NOTICE](NOTICE). This is a personal project and isn't connected to any employer.
