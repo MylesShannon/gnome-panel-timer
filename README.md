@@ -25,7 +25,7 @@ One timer is supported. Duration limits are one second to 24 hours. Labels accep
 
 ## Install or reinstall
 
-Clone the private repository using a GitHub account with access:
+Clone the repository:
 
 ```sh
 git clone https://github.com/MylesShannon/gnome-panel-timer.git
